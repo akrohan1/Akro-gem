@@ -53,5 +53,5 @@ All results are based on measured data and reproducible tests.
 
 ## 📄 License
 
-© 2026 Oguzhan Yumak – AO&MAZ Technology  
+© 2026 Oguzhan Yumak –   
 All rights reserved.
