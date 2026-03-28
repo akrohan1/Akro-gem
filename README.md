@@ -1,57 +1,38 @@
-# AKRO GEM – Resonant Energy & Field System
+# AKRO GEM – Resonance Energy and Field System
 
-**Author:** Oguzhan Yumak  
-**Organization:** AO&MAZ Technology  
-**Date:** March 2026  
+## ⚡ Overview
+AKRO GEM is an experimental system based on Möbius-Toroid geometry, focused on resonance-based field behavior.
 
----
-
-## 🚀 Project Overview
-
-AKRO GEM is an experimental resonant system based on Möbius-Toroid geometry and phase-locked resonance.
-
-The system explores energy behavior, field interaction, and force generation.
+This system does not function as a traditional energy generator.  
+It operates as a controlled resonance field system.
 
 ---
 
-## 🔬 Experimental Findings
-
-✔ Resonance confirmed  
-✔ Stable operation around 5.25 kHz  
-✔ Efficiency range: 76% – 80%  
-✔ Measurable force generation observed  
-
----
-
-## ❌ Not Verified
-
-- Energy harvesting (Pout > Pin)
-- Over-unity behavior
-
----
-
-## ⚡ Key Insight
-
-This system behaves as a **resonant field system**, not an energy generator.
-
----
-
-## 🚀 Current Direction
-
-- Resonant thrust exploration  
+## 🔬 Core Concept
+- Resonance field interaction  
 - Geometry optimization  
 - Multi-core system design  
 
 ---
 
-## ⚠️ Disclaimer
-
-This is an experimental research project.  
-All results are based on measured data and reproducible tests.
+## 🚀 Current Direction
+- Exploration of resonance-driven effects  
+- Structural optimization  
+- System stability analysis  
 
 ---
 
-## 📄 License
+## 🔒 Confidential Notice
+Certain critical technical details such as resonance frequencies, system tuning parameters, and experimental configurations are intentionally not disclosed.
 
-© 2026 Oguzhan Yumak –   
-All rights reserved.
+---
+
+## ⚠️ Disclaimer
+This is an experimental research project.  
+All results are based on controlled testing and observations.  
+No guarantees are provided regarding performance or real-world application.
+
+---
+
+## 📜 License
+© 2026 Oğuzhan Yumak. All rights reserved.
